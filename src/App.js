@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import './index.css';
 import ToDoApp from './components/ToDoApp';
